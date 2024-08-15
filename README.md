@@ -1,4 +1,4 @@
 # AdityaSingh2022
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AdityaSingh2022/AdityaSingh2022/blob/output/github-contribution-grid-snake.gif)
